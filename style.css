@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(238, 238, 238);
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+
+#headline {
+    text-align: center;
+    margin: 50px 0;
+}
+
+li {
+    margin: 16px 0;
+}
+
+#title {
+    font-size: 44px;
+    margin-bottom: 0;
+}
+
+
+#subtitle {
+    font-size: 18px;
+    margin-top: 15px;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+
+#img-caption {
+    margin-top: 20px;
+}
+
+#img-div {
+    background: white;
+    padding: 10px;
+    margin: 0;
+}
+
+blockquote {
+    font-style: italic;
+    max-width: 545px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+}
+
+#read-more {
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
